@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Frontend%20Developer&text2=React%20•%20JS%20•%20UI/UX" width="100%" />
+<!-- <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Frontend%20Developer&text2=React%20•%20JS%20•%20UI/UX" width="100%" /> -->
 
 <br/>
 
