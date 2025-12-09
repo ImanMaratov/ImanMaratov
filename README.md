@@ -4,13 +4,16 @@
 ---
 
 ## 🧰 Навыки  
-- JavaScript / TypeScript  
+- HTML5  
+- CSS3 
+- Tailwind Css
+- JavaScript  
+- TypeScript 
 - React  
-- HTML5 / CSS3 / Tailwind  
-- Основы Python / Java, базовое знакомство  
-- Figma  
+- Redux Toolkit
+- Основы Python / Java
 - Git, VSCode  
-
+- Canva
 ---
 
 ## 🚀 Проекты  
@@ -34,4 +37,4 @@
 
 ---
 
-*(Если есть дополнительные данные — готов добавить. Просто скажи.)*  
+ 
